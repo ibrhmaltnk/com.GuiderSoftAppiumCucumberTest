@@ -1,7 +1,7 @@
 package AppiumTest.stepdefination;
 
 
-import AppiumTest.pageg.WifiPage;
+import AppiumTest.page.WifiPage;
 import io.cucumber.java.en.Then;
 
 public class WifiStepDefinations {

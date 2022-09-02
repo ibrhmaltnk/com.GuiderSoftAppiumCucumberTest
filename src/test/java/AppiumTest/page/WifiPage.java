@@ -1,4 +1,4 @@
-package AppiumTest.pageg;
+package AppiumTest.page;
 
 import AppiumTest.utulities.Driver;
 import io.appium.java_client.pagefactory.AndroidFindBy;
