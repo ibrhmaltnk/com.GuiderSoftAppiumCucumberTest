@@ -7,7 +7,7 @@ Feature: Android
   Then WiFi check box aktif edilir.
   Then Wifi Settings tiklanir
   Then Gelen ekrana "Cok sükür Appium Bitti" yazilir ve OK tiklanir
-  Then
+  Then ghdhdhgghdfgdfgdfg ghdfhdfhdfghdfsw
 
 
 
