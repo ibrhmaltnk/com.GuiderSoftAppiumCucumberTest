@@ -23,7 +23,7 @@ public class Driver {
                     desiredCapabilities.setCapability("platformVersion", "10.0");
                     desiredCapabilities.setCapability("deviceName", "Pixel3");
                     desiredCapabilities.setCapability("automationName", "UiAutomator2");
-                    desiredCapabilities.setCapability("app", "C:\\Users\\Mehmet\\Desktop\\com.GuiderSoftAppiumCucumberTest\\apidemos.apk");
+                    desiredCapabilities.setCapability("app", "C:\\Users\\user\\IdeaProjects\\com.GuiderSoftAppiumCucumberTest\\apidemos.apk");
                     try {
                         driver = new AndroidDriver<>(new URL("http://localhost:4723/wd/hub"), desiredCapabilities);
                         Driver.get().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);

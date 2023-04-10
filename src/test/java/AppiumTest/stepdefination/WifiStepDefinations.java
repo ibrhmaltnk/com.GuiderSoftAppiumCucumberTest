@@ -11,9 +11,6 @@ public class WifiStepDefinations {
        wifiPage.preference.click();
        Thread.sleep(5000);
     }
-
-
-
     @Then("Preference dependencies tiklanir")
     public void preference_dependencies_tiklanir() {
         wifiPage.prefen3.click();

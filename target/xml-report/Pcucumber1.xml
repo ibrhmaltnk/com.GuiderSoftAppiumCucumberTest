@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="55.686">
-    <testcase classname="Android" name="Wifi Programlama" time="53.598">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="24.423">
+    <testcase classname="Android" name="Wifi Programlama" time="24.197">
         <system-out>
             <![CDATA[Then Preference tiklanir....................................................passed
 Then Preference dependencies tiklanir.......................................passed

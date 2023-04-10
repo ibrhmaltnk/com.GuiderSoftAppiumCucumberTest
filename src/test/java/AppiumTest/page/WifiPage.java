@@ -15,7 +15,7 @@ public class WifiPage {
     @AndroidFindBy(accessibility = "3. Preference dependencies")
     public WebElement prefen3;
 
-    @AndroidFindBy(id ="android:id/checkbox" )
+    @AndroidFindBy(id ="android:id/checkbox")
     public WebElement checkBox;
 
     @AndroidFindBy(xpath = "//*[@text=\"WiFi settings\"]")
